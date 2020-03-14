@@ -1,0 +1,56 @@
+
+
+head {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    background-color: #ffffff;
+    border-color: #cccccc;
+
+
+}
+h1{
+    display: flex;
+    flex-direction: column;
+    background-color: #4aaaa5;
+    box-sizing: border-box;
+    border: 33em;
+
+}
+
+body {
+    background-image: url("../images/green_gobbler.png");
+    color: #777777;
+    border-color: #dddddd;
+    border: 960px;
+    box-sizing: border-box;
+
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    text-decoration: none;
+    color: #777777;
+    align-content: left;
+    
+
+    
+}
+.about {
+    
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+    justify-content: center;
+    text-decoration: none;
+    color: #ffffff; 
+    align-content: left;
+    
+    
+}
+
+footer{
+    border-top: 8px solid #4aaaa5;
+}
